@@ -1,0 +1,10 @@
+ 16G	/Users/animesh/Documents/Virtual Machines.localized/Windows 7 x64.vmwarevm/Virtual Disk.vmdk
+ 11G	/Users/animesh/Documents/Virtual Machines.localized/Windows 8pro x64.vmwarevm/Windows 8pro x64.vmdk
+9.8G	/VT/vtiger_ori.tar
+7.8G	/Users/animesh/Desktop/Downloaded/APPS (MAC)/Need.for.Speed.Hot.Pursuit-RELOADED/rld-nshp.iso
+7.5G	/Users/animesh/VirtualBox VMs/windows 8.1pro/windows 8.1pro.vmdk
+7.4G	/Users/animesh/Documents/Virtual Machines.localized/CentOS 64-bitTEST-BUDDY.vmwarevm/Virtual Disk.vmdk
+5.7G	/Users/animesh/Desktop/Now Downloading/SolidWorks 2012 win32 + win64 SP0.0 Multilanguage/SW2012_SP0.0_Win64_Multilanguage.iso
+5.6G	/Users/animesh/Desktop/Downloaded/APPS (WINDOWS)/Mafia II-SKIDROW/sr-mafia2.iso
+4.4G	/Users/animesh/Desktop/Now Downloading/Windows 8 Professional x64 Multi5 - Oct25 2012/Win8PROx64-Multi5_Oct25-2012.iso
+4.3G	/Users/animesh/Documents/Virtual Machines.localized/CentOS 6.0.vmwarevm/CentOS 6.0.vmdk
